@@ -1,0 +1,64 @@
+.container{
+    width: 45%;
+    border: 10px solid black;
+    height: 500px;
+    margin-top: 30px; 
+    border-radius: 10px;
+    background-color: purple;
+}
+#inp{
+    width: 500px;
+    height: 80px;
+    margin-top: 20px;
+    font-size: 40px;
+    border: 4px solid black;
+    background-color: wheat;
+    color: black;
+    border-radius: 10px;
+}
+#inp:hover{
+    background-color: black;
+    color: white;
+    border: 4px solid white;
+}
+button{
+    width: 109px;
+    height: 70px;
+    margin: 10px;
+    margin-top: 15px;
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.btn{
+    background-color: orange;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.btn1{
+    background-color: greenyellow;
+}
+.btn1:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.btn2{
+    background-color: skyblue;
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+/* h1{
+    font-size: 50px;
+}
+.junaid{
+    border: 10px solid black;
+    height: 100px;
+    width: 600px;
+} */
